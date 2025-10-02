@@ -1,0 +1,16 @@
+# Build output
+/bin/
+*.class
+
+# Javadoc output
+/doc/
+
+# Logs
+*.log
+
+# Ignore generated client bills
+emobility.bills/
+
+# OS specific
+.DS_Store
+Thumbs.db
